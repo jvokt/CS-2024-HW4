@@ -2,7 +2,7 @@ CS-2024-HW4
 ===========
 
 
-Here is a solution to 18C of the homework. Please press edit to see it more clearly:
+Here is a solution to 18C of the homework. Please press "RAW" to see it more clearly:
 
 00 +1050 (Read N)
 01 +1040 (Read A)
