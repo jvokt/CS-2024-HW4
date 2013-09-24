@@ -1,1 +1,13 @@
-Deitel & Deitel, pg 373 Excercise 8.16 + 8.15C (pg 375 - Exercise 8.19 + 8.18C in 8th ed) Note the assignment # is DIFFERENT in the 8th ed!!! PLEASE READ THE ASSIGNMENT AS SOON AS POSSIBLE AND ASK QUESTIONS! This is the most difficult assignment I will assign all semester. You must form a group (1-4) to work with (you are free to form the group). No single submissions will be allowed. Please program the Simpletron as per the assignment and write the solution to problem 8.15C in your writeup (the implementation of the Simpletron calls for your code to allow end user input of SML programs. We graders will take the solution you specify in your writeup and type it in). The assignment does not specify that you must wrap Simpletron functionality into a class, but I am requiring you to. All functionality of the Simpletron should be placed in a "Simpletron" class. Your main() function should simply declare an instance of the Simpletron class and call a few basic member functions to execute the functionality specified in the problem assignment. Again, please ask questions liberally and DO NOT leave this assignment until the day it is due!
+Deitel & Deitel, pg 373 Excercise 8.16 + 8.15C (pg 375 - Exercise 8.19 + 8.18C in 8th ed)
+Note the assignment # is DIFFERENT in the 8th ed!!! PLEASE READ THE ASSIGNMENT AS SOON AS POSSIBLE 
+AND ASK QUESTIONS! This is the most difficult assignment I will assign all semester. 
+You must form a group (1-4) to work with (you are free to form the group). 
+No single submissions will be allowed. Please program the Simpletron as per the assignment
+and write the solution to problem 8.15C in your writeup (the implementation of the Simpletron
+calls for your code to allow end user input of SML programs. We graders will take the solution 
+you specify in your writeup and type it in). The assignment does not specify that you must wrap 
+Simpletron functionality into a class, but I am requiring you to. All functionality of the Simpletron
+should be placed in a "Simpletron" class. Your main() function should simply declare an instance
+of the Simpletron class and call a few basic member functions to execute the functionality specified 
+in the problem assignment. Again, please ask questions liberally and DO NOT leave 
+this assignment until the day it is due!
